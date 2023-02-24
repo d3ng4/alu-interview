@@ -1,12 +1,12 @@
 #!/usr/bin/python3
 """
-Rain
+
 """
 
 
 def rain(walls):
     """
-    Return total amount of rainwater retained.
+    Return total amount of rainwater .
     """
     if not walls:
         return 0
